@@ -3,7 +3,7 @@ WordPress Docker
 
 Docker compose for creating local WordPress setup
 
-> Step by step tutorial - [Local WordPress using Docker](https://www.viralpatel.net/)
+> Step by step tutorial - [Local WordPress using Docker](https://www.viralpatel.net/local-wordpress-docker/)
 
 Setup
 -----
